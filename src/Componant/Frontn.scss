@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Ephesis&family=Herr+Von+Muellerhoff&family=Merienda&family=Yellowtail&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bayon&family=Dosis:wght@200&family=Ephesis&family=Herr+Von+Muellerhoff&family=Lobster+Two&family=Merienda&family=Poiret+One&family=Yellowtail&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Overlock+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Overlock+SC&family=Saira+Semi+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Overlock+SC&family=Saira+Semi+Condensed:wght@100&family=Sarala&display=swap');
+.mainpage{
+    .submainpage{
+        display: flex;
+        background-color: rgba(251, 227, 163, 0.801);
+        height: 76vh;
+        width: 100%;
+    }
+    .right1{
+        width: 30%;
+    }
+    .left1{
+        width: 70%;
+    
+    }
+    h1{
+     
+        color: rgb(155, 75, 32);
+        font-size: 70px;
+        padding: 15px;
+
+       letter-spacing: 0;
+    
+    }
+    h2{
+       
+        font-size: 25px;
+        letter-spacing: 4px;
+        font-family: 'Noto Sans', sans-serif;
+     
+        color:rgb(155, 75, 32);
+   
+    }
+    .usecode1{
+        background-color: rgb(155, 75, 32);
+        margin: auto;
+     
+        align-items: center;
+        width: 40%;
+        border-radius: 5px;
+          
+    }.icon{
+        display: none;
+    }
+    .usecode1 h2{
+        font-size: 16px;
+        letter-spacing: 3px;
+        text-align: center;
+        font-weight: 800 !important;
+        margin-top: 5px;
+        color: rgba(251, 227, 163, 0.801);
+        padding: 4px 4px;
+    }
+    .content{
+     width: 150%;
+     text-align: center;
+
+   
+    padding-top: 150px;
+    }
+    #carouselExampleControls{
+        width: 79%;
+     margin-left: 198px;
+    }
+
+  .first{
+    width: 50%;
+  height: 60vh;
+
+
+  }
+  .first img{
+    width: 100%;
+ 
+  }
+  .styles{
+    display: flex;
+    width: 85%;
+  background-color: aqua;
+  margin: auto;
+  }
+  
+.chooseyourstyle{
+    background-color:rgba(255, 255, 255, 0.719);
+    margin-top: 20px !important;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+  
+}
+.chooseyourstyle h1{
+    font-family: 'Lobster Two', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 100;
+ margin-bottom: 0 !important;
+ color: rgb(182, 110, 71);
+ letter-spacing: 3px;
+}
+.chooseyourstyle h6{
+    text-align: center; 
+   color: rgb(87, 87, 87);
+   width: 60%;
+   margin: auto;
+   font-size: 20px;
+   font-family: 'Lobster Two', sans-serif;
+   letter-spacing: 1px;
+margin-top: 0 !important;
+
+}
+.stylesdiv{
+background-image: linear-gradient(rgba(0, 0, 0, 0.448),rgba(0, 0, 0, 0.804)), url(/public/Category1_Desktop_1_-01_419dc2a8-8e77-470b-b4a4-358143224b2f.webp);
+    width: 100%;
+    margin: auto;
+    background-attachment: fixed;
+ background-repeat: repeat;
+height: 45vh;
+    margin-top: 30px !important;
+}
+.stylesdiv h1{
+    color: rgb(190, 188, 188);
+    font-family: 'Lobster Two', sans-serif;
+    font-size: 60px;
+   padding-top: 100px !important;
+    text-align: center;
+letter-spacing: 3px;
+    
+}
+.stylesdiv h6{
+    color:  rgb(221, 125, 73);
+    width: 40%;
+    margin: auto;
+    font-family: 'Lobster Two', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.cats{
+    display: flex;
+
+
+
+height: 55vh;
+  margin-bottom: 30px;
+
+}
+.cats2{
+    display: flex;
+ 
+   
+
+
+}
+.move img{
+  width: 100%;
+
+}
+.catts{
+   
+    width: 100%;
+    padding-left: 80px;
+ 
+}
+.move1 img{
+height: 60vh;
+}
+.move2 img{
+    height: 450px;
+  width: 100%;
+}
+.move3 img{
+    height: 400px;
+    width: 588px;
+}
+.move4 img{
+    height: 400px;
+}
+.categorylist{
+    width: 100%;
+
+}
+.categorylist h1{
+   font-size: 30px;
+   font-family: 'Sarala', sans-serif;
+   font-family:  sans-serif;
+   text-align: center !important;
+//    background-color: rebeccapurple;
+   border-bottom: 2px solid rgb(146, 99, 57);
+   width: 100%;
+ 
+//    font-weight: 700;
+
+}
+.h1s{
+    width: 100%;
+    // background-color: red;
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+    margin: auto;
+    width: 29%;
+}
+.cardimage{
+    width: 100%;
+    height: auto;
+    background-color: red;
+    overflow: hidden;
+}
+.cardimage img{
+    width: 100%;
+    height: 300px;
+
+}
+// .mens{
+//     border: 1px solid rgb(141, 136, 136);
+//     width: 23%;
+//     height: 60vh;
+// //    margin-top: 60px;
+// text-decoration: none;
+// margin-bottom: 70px;
+// }
+.cardpath{
+ 
+  width: 23%;
+  border: 1px solid rgb(141, 136, 136);
+  height: 60vh;
+  color: black;
+//    margin-top: 60px;
+text-decoration: none;
+margin-bottom: 70px;
+
+}
+
+.cccarrrd,.cccarrrd1{
+    display: flex;
+    height: auto;
+ 
+    gap: 20px;
+    // background-color: aqua;
+   width: 100%;
+   justify-content: center;
+ 
+   
+  
+}
+.menss{
+    background-color:  rgba(246, 230, 187, 0.568);
+    margin-top: 80px;
+}
+.detailcard{
+    padding: 10px;
+}
+.detailcard h2{
+    font-weight: 500 !important;
+    font-family: 'Kanit', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+.menss h1{
+text-align: center;
+color:  rgba(221, 125, 73, 0.537);
+
+
+
+}
+.detailcard h6{
+    // color: aqua;
+
+    letter-spacing: 1px;
+}
+
+
+
+}
